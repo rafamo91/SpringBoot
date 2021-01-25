@@ -58,7 +58,7 @@ public class ControlExcepciones extends Exception {
 	}
 
 	/**
-	 * Normas para que los años sean correctos
+	 * Normas para que los anios sean correctos
 	 * 
 	 * @param anyos
 	 * @return
